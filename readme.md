@@ -6,7 +6,9 @@ Laravel Sheard Hosting Project Htaccess for change root folder.
 
 <hr/>
 
-- Copy the .htaccess file and paste it on your project folder
+- Copy the htaccess file and paste it on your project folder
+
+- then rename it htaccess to .htaccess
 
 ## <a href="https://iqbalhasan.dev" target="_blank">iqbalhasan.dev</a> Sponsors
 
